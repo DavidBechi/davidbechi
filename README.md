@@ -14,7 +14,6 @@
    <img align="center" alt="Rafa-React" height="40" width="80" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">    
     <img align="center" alt="Rafa-React" height="40" width="80" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img align="center" alt="Rafa-React" height="40" width="80" src="https://aleen42.github.io/badges/src/photoshop.svg">
-     <img align="center" alt="Rafa-React" height="40" width="80" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
      <img align="center" alt="Rafa-React" height="40" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg"> 
     <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/870473829586178081/870475746815135835/tenor_2.gif">
   </div>
