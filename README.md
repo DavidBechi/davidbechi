@@ -17,8 +17,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="40" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Rafa-React" height="40" width="100" src="https://aleen42.github.io/badges/src/illustrator.svg"> 
+  <img align="center" alt="Rafa-React" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="right" alt="Rafa-yoda" src="https://media.discordapp.net/attachments/870473829586178081/870475746815135835/tenor_2.gif">
   </div>
  
